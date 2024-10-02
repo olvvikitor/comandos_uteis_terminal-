@@ -93,4 +93,3 @@
   docker stop <container_id>
   ```
 
-Documentar esses comandos com exemplos práticos vai te ajudar a lembrar os procedimentos corretos e também será útil para outras pessoas que trabalharem no projeto!
